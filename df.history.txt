@@ -1,0 +1,274 @@
+    1  sudo mkdir /home
+    2  sudo mkdir /home/df
+    3  sudo chown df:df /home//df
+    4  cd ~
+    5  ls
+    6  ls -la
+    7  pwd
+    8  sway
+    9  chromium
+   10  sway
+   11  chromium
+   12  ls
+   13  uptime
+   14  chromium &
+   15  set
+   16  sudo pacman -S firefox
+   17  firefox
+   18  chromium 
+   19  firefox
+   20  bg
+   21  export DISPLAY=:99
+   22  chromium 
+   23  export DISPLAY=:0
+   24  chromium 
+   25  sudo pacman -S xorg-server-xwayland
+   26  chromium 
+   27  xwayland
+   28  GDK_BACKEND=x11 chromium
+   29  nvim .config/sway/config 
+   30  cat .config/waybar/config 
+   31  nvim .config/waybar/config 
+   32  grep -i awesome .config/waybar/*
+   33  sudo pacman -S ttf-font-awesome
+   34  sudo reboot
+   35  sway
+   36  source cfg.sh 
+   37  sway
+   38  nvim .config/sway/config 
+   39  sway
+   40  sway
+   41  sudo pacman -Ss nmcli
+   42  sudo pacman -Ss nm
+   43  sudo pacman -Ss network
+   44  sudo pacman -Ss network manager
+   45  sudo pacman -Ss network manager cli
+   46  sudo pa
+   47  sudo pacman -S networkmanager
+   48  wifi-menu 
+   49  sudo wifi-menu
+   50  sudo pacman -S networkmanager
+   51  nmcli
+   52  nm
+   53  nmtui
+   54  nm
+   55  sudo nm
+   56  sudo nmcli
+   57  NetworkManager 
+   58  sudo NetworkManager 
+   59  nmcli
+   60  sudo nmcli
+   61  nmcli connection show
+   62  nmtui
+   63  nmtui-connect
+   64  uptime
+   65  chromium 
+   66  ls -la
+   67  nvim
+   68  nvim .
+   69  sudo shutdown
+   70  date
+   71  sudo shutdown now
+   72  sway
+   73  history
+   74  NetworkManager 
+   75  nmcli
+   76  sudo NetworkManager 
+   77  nmtui
+   78  nm
+   79  nmtui-connect 
+   80  ping google.om
+   81  ping google.com
+   82  sudo su
+   83  pwd
+   84  make
+   85  chromium --force-device-scale-factor=1
+   86  uptime
+   87  top
+   88  sudo btop
+   89  sudo htop
+   90  tmux
+   91  ls -la
+   92  nvim
+   93  ls -la
+   94  sway
+   95  sudo reboot
+   96  xvkbd
+   97  xdg-open $HOME
+   98  sway
+   99  man sway
+  100  sudo pacman -S sway-doc
+  101  sudo pacman -S sway-docs
+  102  sudo pacman --help
+  103  sudo pacman -S --help
+  104  sudo pacman -Ss sway
+  105  sudo pacman -Ss man
+  106  sudo pacman -Ss docs
+  107  sudo pacman -Ss docs|grep sway
+  108  swaymsg workspace 1:1
+  109  swaymsg workspace 2
+  110  sway-input
+  111  swaymsg --help
+  112  swaymsg --monitor
+  113  catfish
+  114  pacman -S catfish
+  115  sudo pacman -S catfish
+  116  sudo pacman -S --help
+  117  sudo pacman -Sy
+  118  sudo pacman -S catfish
+  119  catfish
+  120  nvim .
+  121  echo $XDG_SESSION_TYPE
+  122  nvim .config/sway/config 
+  123  xkbcli
+  124  xkbcli list
+  125  xkbcli
+  126  xkbcli how-to-type 
+  127  xkbcli interactive-wayland 
+  128  xkbcli interactive-evdev 
+  129  sudo xkbcli interactive-evdev 
+  130  sudo su
+  131  config status
+  132  nvim .
+  133  config status
+  134  config add .config/sway/config 
+  135  config commit
+  136  config push
+  137  nvim .
+  138  cd Downloads/
+  139  ls
+  140  chmod a+x Obsidian-1.5.8.AppImage 
+  141  ./Obsidian-1.5.8.AppImage 
+  142  rm Obsidian-1.5.8.AppImage 
+  143  chmod a+x Obsidian-1.5.8-arm64.AppImage 
+  144  ./Obsidian-1.5.8-arm64.AppImage 
+  145  pacman -S libfuse
+  146  sudo pacman -S libfuse
+  147  sudo pacman -S fuse
+  148  ./Obsidian-1.5.8-arm64.AppImage 
+  149  sudo pacman -S flatpak
+  150  df -h
+  151  sudo pacman -S flatpak
+  152  sudo pacman 
+  153  sudo pacman -h
+  154  sudo pacman -D
+  155  sudo pacman -Dh
+  156  sudo pacman -Sh
+  157  sudo pacman -Sy
+  158  sudo pacman -S flatpak
+  159  ls 
+  160  ls -la
+  161  flatpak
+  162  flatpak --help
+  163  ls
+  164  ls -la
+  165  flatpak install com.github.flxzt.rnote.flatpakref
+  166  flatpak run com.github.flxzt.rnote 
+  167  xsetwacom
+  168  xournalpp
+  169  cd Downloads/
+  170  ls
+  171  ls -la
+  172  uptime
+  173  wev
+  174  ls
+  175  uptime
+  176  top
+  177  man kcompatd
+  178  man kcompactd
+  179  man -k kcompactd
+  180  sudo pacman -S xournalpp
+  181  uptime
+  182  top
+  183  btop
+  184  pacman -Su btop
+  185  sudo pacman -Su btop
+  186  sudo pacman -S btop
+  187  btop
+  188  sudo btop
+  189  sudo btop --utf-force
+  190  vim .
+  191  nvim .
+  192  uptime
+  193  sudo reboot
+  194  nvim .
+  195  ls
+  196  arp -an
+  197  sway
+  198  cd Downloads/
+  199  ls
+  200  open Pictures.jpg 
+  201  chromium Pictures.jpg
+  202  inxi
+  203  flatpak install flathub org.kde.krita
+  204  ls
+  205  cd Downloads/
+  206  ls
+  207  flatpak install flathub org.kde.krita
+  208  flatpak
+  209  flatpak --help
+  210  flatpak --help|grep mirror
+  211  flatpak remotes
+  212  flatpak install flathub org.kde.krita
+  214  ls
+  215  flatpak install flathub org.kde.krita
+  216  flatpak run org.kde.krita
+  217  ls
+  218  dmesg
+  219  sudo reboot
+  220  sudo dmesg
+  221  sudo fdisk -l
+  222  sudo mount /dev/sda 
+  223  ls /mnt
+  224  cd /mnt
+  225  ls
+  226  mkdir transcend32
+  227  sudo mkdir transcend32
+  228  chmod a+rwx transcend32/
+  229  sudo chmod a+rwx transcend32/
+  230  sudo mount /dev/sda /mnt/transcend32/
+  231  dmesg
+  232  sudo mount /dev/sda1 /mnt/transcend32/
+  233  sudo mount /dev/sda2 /mnt/transcend32/
+  234  sudo mount /dev/sda3 /mnt/transcend32/
+  235  fdisk -l
+  236  sudo fdisk -l
+  237  sudo fdisk -l /dev/sda
+  238  sudo fdisk -l /dev/sda3
+  239  sudo fdisk -l /dev/sda*
+  240  ls -la /dev/sda 
+  241  uname -a
+  242  
+  243  lsblk -f /dev/sdc
+  244  lsblk -f /dev/sda
+  245  sudo fdisk /dev/sda
+  246  sudo fdisk -l
+  247  df -h
+  248  ls -la /dev/root
+  249  sudo ls -la /dev/root
+  250  mount
+  251  cat /etc/fstab 
+  252  ls
+  253  ls -la
+  254  fdisk -l
+  255  sudo fdisk -l
+  256  mount /dev/sda3 /mnt/transcend32/
+  257  sudo mount /dev/sda3 /mnt/transcend32/
+  258  cd transcend32/
+  259  ls
+  260  ls -la
+  261  touch test
+  262  sudo touch test
+  263  ls -la
+  264  sudo dmesg > dmesg.txt
+  265  sudo chmod a+rwx .
+  266  sudo dmesg > dmesg.txt
+  267  touch dmesg.txt
+  268  sudo touch dmesg.txt
+  269  chmod a+rwx dmesg.txt 
+  270  sudo chmod a+rwx dmesg.txt 
+  271  sudo dmesg > dmesg.txt
+  272  ls -la
+  273  sudo su
+  274  history
+  275  history > ~/df.history.txt
