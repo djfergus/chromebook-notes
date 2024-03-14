@@ -1,0 +1,271 @@
+    1  wifi-menu
+    2  wifi-menu wlan0
+    3  ifconifg
+    4  ifconfig
+    5  dmesg
+    6  lspci
+    7  lsusb
+    8  modprobe 
+    9  lsmod
+   10  df -h
+   11  fdisk -l
+   12  mount
+   13  reboot
+   14  cd /home/alarm/
+   15  ls
+   16  pacman -U linux-firmware-marvell-20231211.f2e52a1c-1-any.pkg.tar.xz 
+   17  dmesg
+   18  ifconfig
+   19  reboot
+   20  ifconfig
+   21  wifi-menu 
+   22  ping google.com
+   23  arp -an
+   24  ls
+   25  dmesg
+   26  pacman -key --init
+   27  pacman-key --init
+   28  pacman-key --populate archlinuxarm
+   29  sudo reboot
+   30  reboot
+   31  uptime
+   32  nvim
+   33  pacman --help
+   34  pacman -U neovim
+   35  pacman -S
+   36  pacman -S neovim
+   37  pacman -S neovim
+   38  ping mirror.archlinuxarm.org
+   39  ping mirror.archlinuxarm.org
+   40  ping mirror.archlinuxarm.org
+   41  ping archlinuxarm.org
+   42  ping google.com
+   43  wifi-menu 
+   44  ping mirror.archlinuxarm.org
+   45  pacman -U neovim
+   46  pacman -S neovim
+   47  pacman -S neovim
+   48  pacman -S 
+   49  pacman 
+   50  pacman -h
+   51  pacman -D
+   52  pacman -V
+   53  pacman -U
+   54  pacman -s
+   55  pacman -Syu
+   56  pacman -Syu
+   57  ping google.com
+   58  reboot
+   59  ping google.com
+   60  wifi-menu --help
+   61  wifi-menu 
+   62  ping google.com
+   63  wifi-menu 
+   64  man 
+   65  vi
+   66  pacman -S nano git neofetch
+   67  neofetch 
+   68  neofetch 
+   69  nano /etc/pacman.conf 
+   70  pacman -S neovim
+   71  nvim /etc/pacman.conf 
+   72  nvim /etc/pacman.conf 
+   73  pacman -Sy
+   74  pacman -S cargo
+   75  cargo -v
+   76  cargo -V
+   77  pacman -S reflector
+   78  pacman -S reflector
+   79  pacman 
+   80  pacman -h
+   81  pacman -Q reflector
+   82  pacman -Q reflect
+   83  reflector
+   84  pacman -S reflector
+   85  lscpu
+   86  ls
+   87  uptime
+   88  halt
+   89  ls
+   90  dmesg
+   91  reboot
+   92  prompt 
+   93  cat .bashrc
+   94  man bash
+   95  set prompt=""
+   96  export prompt=""
+   97  ls
+   98  killall sway
+   99  ls
+  100  uptime
+  101  chromium &
+  102  su df
+  103  vim
+  104  pacman -S nvim
+  105  pacman -S vim
+  106  ping google.com
+  107  iwconfig
+  108  dmesg
+  109  iwconfig
+  110  history
+  111  nano
+  112  history
+  113  wifi-menu 
+  114  ip a
+  115  ping google.com
+  116  pacman -S nvim
+  117  pacman -S neovim
+  118  nvim .
+  119  btop
+  120  htop
+  121  top
+  122  startx
+  123  pacman -S sway
+  124  pacman -S sway
+  125  pacman -S mesa
+  126  pacman -Syu
+  127  pacman -Syu
+  128  pacman -Syu
+  129  ~~~~~
+  130  pacman -Syu
+  131  pacman -S sway
+  132  pacman -S seatd
+  133  groupadd --help
+  134  cat /etc/group
+  135  useradd df
+  136  passwd df
+  137  nvim /etc/group
+  138  sudo df
+  139  su df
+  140  pacman -S sudo
+  141  su df
+  142  nvim /etc/sudoers
+  143  visudo
+  144  su df
+  145  sudo df
+  146  su df
+  147  su df
+  148  sway
+  149  pacman -S foot chromium waybar
+  150  curl
+  151  pacman -S git tmux
+  152  pacman -S wmenu
+  153  wget
+  154  pacman -S wget
+  155  sway
+  156  nvim .config/sway/config 
+  157  pacman -S wofi
+  158  pacman --help
+  159  pacman -Q jetbrains
+  160  pacman -Q -h
+  161  pacman -Ss jetbrains
+  162  pacman -S ttf-jetbrains-mono-nerd
+  163  cat /etc/locale.gen 
+  164  nvim /etc/locale.gen 
+  165  locale-gen 
+  166  sway
+  167  su df
+  168  uptime
+  169  cat /sys/class/power_supply/sbs-9-000b/capacity
+  170  cat /sys/class/power_supply/sbs-9-000b/capacity
+  171  cat /sys/class/power_supply/sbs-9-000b/capacity_level 
+  172  cat /sys/class/power_supply/sbs-9-000b/charge_full
+  173  cat /sys/class/power_supply/sbs-9-000b/charge_now
+  174  cat /sys/class/power_supply/sbs-9-000b/capacity
+  175  cat /sys/class/power_supply/sbs-9-000b/capacity
+  176  cat /sys/class/power_supply/sbs-9-000b/capacity
+  177  history
+  178  lscpu
+  179  lscpu
+  180  cat /sys/class/power_supply/sbs-9-000b/capacity
+  181  cat /sys/class/power_supply/sbs-9-000b/capacity
+  182  wifi-menu 
+  183  cat /sys/class/power_supply/sbs-9-000b/capacity
+  184  wifi-menu 
+  185  cat /sys/class/power_supply/sbs-9-000b/capacity
+  186  cat /sys/class/power_supply/sbs-9-000b/capacity
+  187  cat /sys/class/power_supply/sbs-9-000b/charge_now
+  188  cat /sys/class/power_supply/sbs-9-000b/charge_now
+  189  cat /sys/class/power_supply/sbs-9-000b/charge_now
+  190  cat /sys/class/power_supply/sbs-9-000b/charge_now
+  191  cat /sys/class/power_supply/sbs-9-000b/charge_now
+  192  cat /sys/class/power_supply/sbs-9-000b/charge_now
+  193  cat /sys/class/power_supply/sbs-9-000b/charge_now
+  194  cat /sys/class/power_supply/sbs-9-000b/capacity
+  195  cd .
+  196  cd /
+  197  du -sh *
+  198  df -h
+  199  ping google.com
+  200  iperf
+  201  iperf3
+  202  ping archlinuxarm.org
+  203  ping mirro.archlinuxarm.org
+  204  ping mirror.archlinuxarm.org
+  205  cat /etc/netconfig 
+  206  cat /etc/netconfig 
+  207  ls
+  208  nvim
+  209  ls
+  210  ls -la
+  211  cd ~
+  212  ls -la
+  213  cat .config/
+  214  cat .local/share/nvim/.netrwhist 
+  215  nvim
+  216  nvim scp://root@192.168.1.2:/mnt/user/appdata/homer/assets/config.yml
+  217  nvim scp://192.168.1.2:/mnt/user/appdata/homer/assets/config.yml
+  218  nvim 
+  219  nvim scp://192.168.1.2/mnt/user/appdata/homer/assets/config.yml
+  220  nvim scp://192.168.1.2/mnt/user/appdata/homer/assets/
+  221  ssh 192.168.1.2
+  222  nvim scp://192.168.1.2/mnt/user/appdata/homer/assets/
+  223  nvim scp://192.168.1.2/mnt/user/appdata/homer/
+  224  cat /sys/class/power_supply/sbs-9-000b/status 
+  225  cat /sys/class/power_supply/sbs-9-000b/health 
+  226  cat /sys/class/power_supply/sbs-9-000b/hwmon3/temp1_input 
+  227  cat /sys/class/power_supply/sbs-9-000b/hwmon3/temp1_input 
+  228  cat /sys/class/power_supply/sbs-9-000b/hwmon3/temp1_input 
+  229  cat /sys/class/power_supply/sbs-9-000b/hwmon3/temp1_input 
+  230  cat /sys/class/power_supply/sbs-9-000b/hwmon3/temp1_input 
+  231  killall sway
+  232  killall sway
+  233  cd ~
+  234  ls
+  235  pwd
+  236  wget https://github.com/djfergus/sway-configs/config.sh
+  237  wget https://github.com/djfergus/sway-configs/blob/master/cfg-install.sh
+  238  cat cfg-install.sh 
+  239  rm cfg-install.sh 
+  240  wget https://raw.githubusercontent.com/djfergus/sway-configs/master/cfg-install.sh
+  241  cat cfg-install.sh 
+  242  source cfg-install.sh 
+  243  mv cfg-install.sh cfg.sh
+  244  source cfg.sh 
+  245  ls
+  246  ls -l
+  247  ls -la
+  248  config status
+  249  sway
+  250  killall sway
+  251  killall sway
+  252  ls
+  253  cp cfg.sh /home/df
+  254  chown df:df /home/df/cfg.sh 
+  255  cd /
+  256  [200~systemctl enable NetworkManager
+  257  systemctl enable NetworkManager
+  258  nmcli dev wifi con
+  259  nmcli dev wifi con "datamama-5g"
+  260  reboot
+  261  uptime
+  262  ls
+  263  ls > tesst
+  264  ls -la
+  265  cat tes
+  266  cat tesst 
+  267  dmesg
+  268  history
+  269  history|grep pacman
+  270  ls
+  271  history > root.history.txt
